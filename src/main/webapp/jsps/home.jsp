@@ -37,11 +37,8 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/wizdomlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Wizdom Technologys, 
-		#309, Annapurna Block, Aditya Enclave
-		Hyderabad,
-		+91-9390959584
-		wizdomtechnologys@gmail.com
+<b>		hellooooooooooooooooooo
+</b>
 		<br>
 		<a href="mailto:wizdomtechnologys@gmail.com">Mail to Wizdom Technologys</a>
 	</span>
