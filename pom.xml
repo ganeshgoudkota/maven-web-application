@@ -12,7 +12,7 @@
 	<description>Maven Web Project for Java Project</description>
 
 	<organization>
-		<name>Wizdom Technologies</name>
+		<name>Ganesh Kota</name>
 		<url>http://wizdomtechnologies.com/</url>
 	</organization>
 
@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://192.168.157.130:9000/</sonar.host.url>
+		<sonar.host.url>http://13.201.13.174:9000//</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>sonar</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Wizdom Technologies Releases Nexus Repository</name>
-	      <url>http://192.168.157.140:9980/wizdomtechnologies/repository/facebook/</url>
+	      <name>Amazon Releases Nexus Repository</name>
+	      <url>http://13.200.249.99:8081/nexus/repository/amazon-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Wizdom Technologies Snapshot Nexus Repository </name>
-	      <url>http://192.168.157.140:9980/wizdomtechnologies/repository/facebook-snapshot/</url>
+	      <name>Amazon Snapshot Nexus Repository </name>
+	      <url>http://13.200.249.99:8081/nexus/repository/amazon-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
